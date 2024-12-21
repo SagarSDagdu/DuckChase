@@ -1,4 +1,4 @@
-# Duck Chase with Ripples
+# Duck Chase with Ripples 🦆
 
 A SwiftUI-based game where players tap ducks on a dynamic water surface. Features water ripple physics, haptic feedback, and increasing difficulty.
 
@@ -7,7 +7,6 @@ A SwiftUI-based game where players tap ducks on a dynamic water surface. Feature
 
 > [!TIP]
 > This project was developed through an iterative prompting and feedback cycle with Anthropic's Claude 3.5 Sonnet AI, specifically exploring its capabilities in UI design and complex geometry handling. The development process showcases effective AI collaboration in creating interactive iOS applications.
-
 
 ## Screenshots
 
