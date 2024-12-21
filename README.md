@@ -48,7 +48,7 @@ A SwiftUI-based game where players tap ducks on a dynamic water surface. Feature
 ## Installation
 
 1. Clone the repository
-2. Open `DuckRipples.xcodeproj` in Xcode
+2. Open `DuckChase.xcodeproj` in Xcode
 3. Build and run on a device or simulator
 
 ## Usage
@@ -58,7 +58,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        WaterRippleGame()
+        WaterRippleGamView()
     }
 }
 ```
