@@ -17,7 +17,7 @@ struct WaterRippleGameView: View {
     @State private var splashScale: CGFloat = 0
     @State private var isGameOver = false
     
-    private let totalMissesAllowed = 10
+    private let totalMissesAllowed = 20
     
     @Environment(\.colorScheme) var colorScheme
     
